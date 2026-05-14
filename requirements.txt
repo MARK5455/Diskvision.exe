@@ -1,0 +1,5 @@
+# DiskVision — runtime (python DiskVision.py)
+psutil>=5.9.0
+requests>=2.31.0
+send2trash>=1.8.2
+cryptography>=42.0.0
